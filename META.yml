@@ -32,5 +32,5 @@ resources:
   bugtracker: http://rt.cpan.org/Dist/Display.html?Queue=MooseX-DeclareX-Plugin-singleton
   homepage: https://metacpan.org/release/MooseX-DeclareX-Plugin-singleton
   license: http://dev.perl.org/licenses/
-  repository: https://bitbucket.org/tobyink/p5-moosex-declarex-plugin-singleton
-version: 0.001
+  repository: https://github.com/tobyink/p5-moosex-declarex-plugin-singleton
+version: 0.002
